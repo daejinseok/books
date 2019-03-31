@@ -39,3 +39,25 @@
 ### 슬기로운 파이썬 트릭
 - https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179118176
 - 노트: 5년정도 파이썬이 어느정도 익숙해진뒤에 보면 적당
+
+### Effective Python 이펙티브 파이썬 : 파이썬 코딩의 기술
+- 노트 : 사실 이책은 중급이라기 보다 파이썬 문법을 어느정도 익혔다면 그 다음 보면 좋은 책 초중급, [페북 정원상](https://www.facebook.com/seeeturtle)님 추천
+
+
+고급
+===========================================================
+
+### 고성능 파이썬
+- https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=88728542
+- 노트: 파이썬으로 순식간에 무언가 만들고, 왜 느리지~ 하고 생각되면 바로 봐야하는 책
+
+### 실전 스케일링 파이썬 프로그래밍
+- https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=163437128
+- 노트 : 최적화로 해결이 안된다면~~~ 확장!!!
+
+### 전문가를 위한 파이썬
+https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=88728476
+- 노트 : [페북 문중현](https://www.facebook.com/mjhans83)님이 파이썬 내부를 알 수 있다고 합니다. 출간하기전부터 제 위시리스트에만 있는 책 ^^;;
+
+
+
